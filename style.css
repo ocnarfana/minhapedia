@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(116, 207, 203);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(18, 84, 100);
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    padding: 15px;
+    background-color: rgb(18, 84, 100);
+    color: rgb(116, 207, 203);
+    border-bottom: 5px solid rgb(116, 207, 203);
+    width: 75%;
+    margin: 20px auto;
+    font-size: xx-large;
+    
+}
+
+main {
+    width: 75%;
+    margin: 20px auto;
+    padding: 15px;
+    background-color: white;
+    
+}
+
+h2 {
+    border-bottom: 2px solid rgb(18, 84, 100);
+    padding-bottom: 10px;
+}
+
+ul, ol {
+    padding-left: 20px;
+}
+
+
+a {
+    color: rgb(18, 84, 100);
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(5, 19, 18);
+}
+footer {
+    text-align: center;
+    text-underline-offset: auto;
+}
